@@ -1,4 +1,4 @@
-# Hi, I'm Yann 👋
+# Hi, I'm Yann 
 
 I'm a machine learning and data science developer with a focus on building efficient, well-structured solutions in Python and C/C++.
 
