@@ -1,4 +1,4 @@
-# Hi, I'm Yann Baglin-Bunod 👋
+# Hi, I'm Yann Baglin-Bunod 
 
 ECE student specialising in Machine Learning and Data Science.
 
