@@ -6,4 +6,4 @@ ECE student specialising in Machine Learning and Data Science.
 
 ---
 
-📄 [CV]([https://yann-b-b.github.io/Yann_Baglin-Bunod_CV.pdf](https://yann-b-b.github.io/Yann_Baglin-Bunod_CV.pdf)) · 💼 [LinkedIn](https://www.linkedin.com/in/yann-baglin-bunod) · ✉️ ybaglinbunod@gmail.com
+📄 [CV](https://yann-b-b.github.io/Yann_Baglin-Bunod_CV.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/yann-baglin-bunod) · ✉️ ybaglinbunod@gmail.com
